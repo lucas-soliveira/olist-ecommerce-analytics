@@ -39,9 +39,13 @@ O relatório foi desenhado com foco na experiência do usuário (UX), simulando 
 
 ### Visão Geral das Páginas
 
-| Executivo | Logística | Marketing | Operacional |
-| :---: | :---: | :---: | :---: |
-| ![Executivo](2_imagens/2-executivo_olist.png) | ![Logística](2_imagens/3-logistica_olist.png) | ![Marketing](2_imagens/4-marketing_olist.png) | ![Operacional](2_imagens/5-operacional_olist.png) |
+| Executivo | Logística |
+| :---: | :---: |
+| <img src="2_imagens/2-executivo_olist.png" width="800"> | <img src="2_imagens/3-logistica_olist.png" width="800"> |
+
+| Marketing | Operacional |
+| :---: | :---: |
+| <img src="2_imagens/4-marketing_olist.png" width="800"> | <img src="2_imagens/5-operacional_olist.png" width="800"> |
 
 ---
 
@@ -53,7 +57,7 @@ Para garantir uma navegação fluida e análises precisas, as seguintes funciona
 
 | Visão Padrão (Executivo) | Visão com Filtros Ativos (Funciona em todas as abas) |
 | :---: | :---: |
-| ![Visão Executiva](2_imagens/2-executivo_olist.png) | ![Filtros Abertos](2_imagens/6-filtros_olist_filtro.png) |
+| ![Visão Executiva](2_imagens/2-executivo_olist.png) | ![Filtros Abertos](2_imagens/6-filtros_olist.png) |
 
 * **Segmentações Disponíveis:** Filtros de Ano, Estado, Período Semanal (Fim de semana/Dia útil) e Região.
 * **Gestão de Filtros:** Botões dedicados para limpar todas as seleções instantaneamente e para recolher o painel de forma suave, otimizando o espaço da tela.
