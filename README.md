@@ -1,6 +1,6 @@
 # 🛒 Olist E-commerce Analytics | BigQuery & Power BI
 
-![Capa do Projeto](assets/1-capa_olist.png)
+![Capa do Projeto](2_imagens/1-capa_olist.png)
 
 ## 🔗 Acesso ao Dashboard
 👉 **[Clique aqui para acessar o Dashboard no Power BI Service](https://app.powerbi.com/links/9sv8R_NIKD?ctid=b1f41013-e445-4b35-a708-06a99e6ced6e&pbi_source=linkShare&bookmarkGuid=343ab303-e086-4b40-88fc-fc9230f94b05)**
@@ -41,7 +41,7 @@ O relatório foi desenhado com foco na experiência do usuário (UX), simulando 
 
 | Executivo | Logística | Marketing | Operacional |
 | :---: | :---: | :---: | :---: |
-| ![Executivo](assets/2-executivo_olist.png) | ![Logística](assets/3-logistica_olist.png) | ![Marketing](assets/4-marketing_olist.png) | ![Operacional](assets/5-operacional_olist.png) |
+| ![Executivo](2_imagens/2-executivo_olist.png) | ![Logística](2_imagens/3-logistica_olist.png) | ![Marketing](2_imagenss/4-marketing_olist.png) | ![Operacional](2_imagens/5-operacional_olist.png) |
 
 ---
 
@@ -53,7 +53,7 @@ Para garantir uma navegação fluida e análises precisas, as seguintes funciona
 
 | Visão Padrão (Executivo) | Visão com Filtros Ativos (Funciona em todas as abas) |
 | :---: | :---: |
-| ![Visão Executiva](assets/2-executivo_olist.png) | ![Filtros Abertos](assets/6-filtros_olist_filtro.png) |
+| ![Visão Executiva](2_imagens/2-executivo_olist.png) | ![Filtros Abertos](2_imagens/6-filtros_olist_filtro.png) |
 
 * **Segmentações Disponíveis:** Filtros de Ano, Estado, Período Semanal (Fim de semana/Dia útil) e Região.
 * **Gestão de Filtros:** Botões dedicados para limpar todas as seleções instantaneamente e para recolher o painel de forma suave, otimizando o espaço da tela.
