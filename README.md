@@ -41,7 +41,7 @@ O relatório foi desenhado com foco na experiência do usuário (UX), simulando 
 
 | Executivo | Logística | Marketing | Operacional |
 | :---: | :---: | :---: | :---: |
-| ![Executivo](2_imagens/2-executivo_olist.png) | ![Logística](2_imagens/3-logistica_olist.png) | ![Marketing](2_imagenss/4-marketing_olist.png) | ![Operacional](2_imagens/5-operacional_olist.png) |
+| ![Executivo](2_imagens/2-executivo_olist.png) | ![Logística](2_imagens/3-logistica_olist.png) | ![Marketing](2_imagens/4-marketing_olist.png) | ![Operacional](2_imagens/5-operacional_olist.png) |
 
 ---
 
