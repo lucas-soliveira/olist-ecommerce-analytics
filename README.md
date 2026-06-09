@@ -3,7 +3,7 @@
 ![Capa do Projeto](2_imagens/1-capa_olist.png)
 
 ## 🔗 Acesso ao Dashboard
-👉 **[Clique aqui para acessar o Dashboard no Power BI Service](https://app.powerbi.com/links/9sv8R_NIKD?ctid=b1f41013-e445-4b35-a708-06a99e6ced6e&pbi_source=linkShare&bookmarkGuid=343ab303-e086-4b40-88fc-fc9230f94b05)**
+👉 **[Clique aqui para acessar o Dashboard no Power BI Service](https://app.powerbi.com/links/9sv8R_NIKD?ctid=b1f41013-e445-4b35-a708-06a99e6ced6e&pbi_source=linkShare)**
 
 ---
 
